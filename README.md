@@ -18,19 +18,18 @@ If you choose letter to number, enter a letter from the Turkish alphabet, and th
 
 If you choose number to letter, enter a number between 1 and 29, and the program will output the corresponding letter from the Turkish alphabet.
 
-Functions
-faktoriyel
+Functions:
+
+
+faktoriyel:
 int faktoriyel(int sayi);
 This function calculates the factorial of an integer.
-
 leibniz:
 int leibniz(int uzunluk, int kelime_uzunlugu);
 This function calculates the binomial coefficient using the Leibniz formula.
-
 alfabeyeri:
 int alfabeyeri(char harf);
 This function converts a letter from the Turkish alphabet to a number.
-
 alfabecevirme:
 char alfabecevirme(int harf);
 This function converts a number to a letter from the Turkish alphabet.
